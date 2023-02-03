@@ -1,0 +1,7 @@
+[submodule "Frontend/Go_project"]
+	path = Frontend/Go_project
+	url = https://github.com/Algalyq/Go_project.git
+[submodule "Go/Go_project"]
+	path = Go/Go_project
+	url = https://github.com/Algalyq/Go_project.git
+	branch = master
